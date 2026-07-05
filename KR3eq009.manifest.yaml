@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq009_000.yaml, hash: 'sha256:f60999eb9cf62f3df9d6a157821d14a35189808d1ae7ff8050343a73ddcbcd47'}
+  - {seq: 0, filename: KR3eq009_000.yaml, hash: 'sha256:dd807d73abe75c471992fa3f765e78754ef0fb29c1340b3825b5a0743dc52e57'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:62d2a0a41cd13654321ef81d97701dc2bc74a632f871450447d569df5f03835e'}
+  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:847f9a9a68144829f42f790964812a419695efbd0b0a4f4bf61ba14540228195'}
 table_of_contents:
 - ref:
     seq: 0
@@ -991,7 +991,4 @@ table_of_contents:
   label: 舌瘡舌糜
   type: section
   level: 2
-hash: sha256:0dd3a3930d1e763b0661677b7d109e46bdc26d45e138befbe73b406830bf803b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:07ee589fd55c8cf33e3df9faedd0f210de4aeee22695573759d1dd73ab5c02b7
