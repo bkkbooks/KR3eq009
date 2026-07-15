@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq009/v1
 canonical_location: https://kanripo.org/bkk/KR3eq009/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 回春錄
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq009_000.yaml, hash: 'sha256:dd807d73abe75c471992fa3f765e78754ef0fb29c1340b3825b5a0743dc52e57'}
+  - {seq: 0, filename: KR3eq009_000.yaml, hash: 'sha256:597fac568fe80cc1e83759bb9e2022d4a49364a1e350527e7fab14fbdc431582'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:847f9a9a68144829f42f790964812a419695efbd0b0a4f4bf61ba14540228195'}
+  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:872ca651281d2b43fbf67d023cd22e614d225c8ff3d1e0d1aff5950ea1331f39'}
 table_of_contents:
 - ref:
     seq: 0
@@ -991,4 +991,7 @@ table_of_contents:
   label: 舌瘡舌糜
   type: section
   level: 2
-hash: sha256:07ee589fd55c8cf33e3df9faedd0f210de4aeee22695573759d1dd73ab5c02b7
+hash: sha256:83104d1cd39e231263032985a420dd78c2315465078c55bc3c49a41b4ecfe1c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
