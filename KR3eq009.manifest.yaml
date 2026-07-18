@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq009_000.yaml, hash: 'sha256:597fac568fe80cc1e83759bb9e2022d4a49364a1e350527e7fab14fbdc431582'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:872ca651281d2b43fbf67d023cd22e614d225c8ff3d1e0d1aff5950ea1331f39'}
+  - {seq: 0, role: markers, filename: assets/KR3eq009_000.markers.yaml, hash: 'sha256:b0bb491605c46f1d4ea247e0037c672b01a9ebadf9a64d5b01849eb52eeb283c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -991,7 +991,7 @@ table_of_contents:
   label: 舌瘡舌糜
   type: section
   level: 2
-hash: sha256:83104d1cd39e231263032985a420dd78c2315465078c55bc3c49a41b4ecfe1c7
+hash: sha256:122933d8029d69431c67c64bb6e90dc96072fc7f91e66f75454af0ebab3ca76a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
